@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+
+<head>
+ 
+    <meta charset="utf-8">
+ 
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="信息安全知识库信息安全资料,等级保护资料,信息安全资料下载,信息安全实验资料
+,vipread,信息安全,安全文档,文档报告,文档分享,会议资料,安全加固">
+
+    <link rel="shortcut icon" href="/static/favicon.ico">
+
+    <!-- Page Title  -->
+    <title>信息安全知识库  vipread.com</title>
+    <!-- StyleSheets  -->
+    
+    
+  <link rel="stylesheet" href="/static/assets/css/dashlite.css?ver=1.4.0">
+<link id="skin-default" rel="stylesheet" href="/static/assets/css/theme.css?ver=1.4.0">
+  <meta name="referrer" content="no-referrer" />
+
+
+
+    
+      
+    
+
+
+
+</head>
+
+<body  class="nk-body npc-invest bg-lighter ">
+    <div class="nk-app-root">
+        <!-- wrap @s -->
+        <div class="nk-wrap ">
+            <!-- main header @s -->
+            <div class="nk-header nk-header-fluid is-theme">
+                <div class="container-xl wide-lg">
+                    <div class="nk-header-wrap">
+                        <div class="nk-menu-trigger mr-sm-2 d-lg-none">
+                            <a href="#" class="nk-nav-toggle nk-quick-nav-icon" data-target="headerNav"><em class="icon ni ni-menu"></em></a>
+                        </div>
+                        <div class="nk-header-brand">
+                            <a href="/" class="logo-link">
+                                <img class="logo-light logo-img" src="/static/logo_light.png" srcset="/static/logo_light.png 2x" alt="logo">
+                                <img class="logo-dark logo-img" src="/static/logo_light.png" srcset="/static/logo_light.png 2x" alt="logo-dark">
+                                
+                            </a>
+                        </div><!-- .nk-header-brand -->
+                        <div class="nk-header-menu" data-content="headerNav">
+                            <div class="nk-header-mobile">
+                                <div class="nk-header-brand">
+                                    <a href="/" class="logo-link">
+                                        VIPREAD 导航
+                                     
+                                    </a>
+                                </div>
+                                <div class="nk-menu-trigger mr-n2">
+                                    <a href="#" class="nk-nav-toggle nk-quick-nav-icon" data-target="headerNav"><em class="icon ni ni-arrow-left"></em></a>
+                                </div>
+                            </div>
+                            <!-- Menu -->
+                            <ul class="nk-menu nk-menu-main">
+                        
+                                <li class="nk-menu-item">
+                                    <a href="/index" class="nk-menu-link">
+                                        <span class="nk-menu-text">主页</span>
+                                    </a>
+                                </li>
+
+                                <li class="nk-menu-item">
+                                    <a href="/library/category" class="nk-menu-link">
+                                        <span class="nk-menu-text">书架</span>
+                                    </a>
+                                </li>
+
+
+
+
+                                <li class="nk-menu-item">
+                                    <a href="/library/datas" class="nk-menu-link">
+                                        <span class="nk-menu-text">议题</span>
+                                    </a>
+                                </li>
+
+
+
+                                <li class="nk-menu-item">
+                                    <a href="/library/attachment" class="nk-menu-link">
+                                        <span class="nk-menu-text">附件</span>
+                                    </a>
+                                </li>
+
+                                
+
+                                <li class="nk-menu-item">
+                                    <a href="/library/authors" class="nk-menu-link">
+                                        <span class="nk-menu-text">成员</span>
+                                    </a>
+                                </li>
+
+
+
+
+
+                                <li class="nk-menu-item">
+                                    <a href="/library/search" class="nk-menu-link">
+                                        <span class="nk-menu-text">搜索</span>
+                                    </a>
+                                </li>
+
+
+
+                               
+                                
+                         
+                            </ul>
+                        </div><!-- .nk-header-menu -->
+                        <div class="nk-header-tools">
+                            <ul class="nk-quick-nav">
+                    
+                                
+
+
+
+                                    <li class="dropdown user-dropdown order-sm-first">
+                                       
+                                        <a href="/auth/login" class="btn btn-primary">登录</a>
+                                    </li><!-- .dropdown -->
+
+                                
+
+
+
+                                <li style="margin-left: -30px">
+                            
+
+                                    
+                                        <a href="/setmode/black" class="nk-menu-link">
+                                     
+                                        <span class="nk-menu-text">夜间</span>
+                                        </a>
+                                      
+
+                                    
+
+
+
+                                </li>
+
+
+
+
+
+                            </ul><!-- .nk-quick-nav -->
+                        </div><!-- .nk-header-tools -->
+                    </div><!-- .nk-header-wrap -->
+                </div><!-- .container-fliud -->
+            </div>
+            <!-- main header @e -->
+            <!-- content @s -->
+            
+
+  <div class="nk-content nk-content-fluid"> 
+   <div class="container-xl wide-lg"> 
+    <div class="nk-content-inner"> 
+
+
+     <div class="nk-content-body" style="margin-top: -10px"> 
+
+
+
+
+
+      
+
+
+      <div class="nk-block invest-block"> 
+                
+                  <div class="row g-gs">
+                      <div class="col-md-6 col-lg-8">
+                        <div class="card card-bordered card-preview">
+                        <div class="card-inner">
+                            <div class="example-carousel">
+                                <div id="carouselExCap" class="carousel slide" data-ride="carousel">
+                                    <ol class="carousel-indicators">
+                                        <li data-target="#carouselExCap" data-slide-to="0" class=""></li>
+                                        <li data-target="#carouselExCap" data-slide-to="1" class="active"></li>
+                                        <li data-target="#carouselExCap" data-slide-to="2" class=""></li>
+                                    </ol>
+                                    <div class="carousel-inner text-white">
+
+
+                                      <div class="carousel-item active">
+                                        <a href="/library/cid/412">
+                                          <img src="//wx3.sinaimg.cn/large/006vnxPsly1gxp16g7gapj311m0msgpu.jpg" class="d-block w-100" style="height: 400px">
+                                        
+                                          <div class="carousel-caption d-none d-md-block">
+                                             
+                                              <p>2021 INSEC WORLD 成都·世界信息安全大会</p>
+                                          </div>
+                                        </a>
+                                      </div>
+
+                                      
+                                      
+                                      <div class="carousel-item">
+                                        <a href="/library/cid/410">
+                                          <img src="//wx3.sinaimg.cn/large/006vnxPsly1gxn0vc6r6sj314e0pq0v1.jpg" class="d-block w-100" style="height: 400px">
+                                        
+                                          <div class="carousel-caption d-none d-md-block">
+                                             
+                                              <p>58同城第二届安全技术沙龙</p>
+                                          </div>
+                                        </a>
+                                      </div>
+
+
+                                      <div class="carousel-item">
+                                        <a href="/library/cid/411">
+                                          <img src="//wx3.sinaimg.cn/large/006vnxPsly1gxn0vdzm17j30qo0emdht.jpg" class="d-block w-100" style="height: 400px">
+                                        
+                                          <div class="carousel-caption d-none d-md-block">
+                                             
+                                              <p>首届API安全管理论坛</p>
+                                          </div>
+                                        </a>
+                                      </div>
+
+
+
+
+
+                                      <div class="carousel-item">
+                                        <a href="/library/cid/409">
+                                          <img src="//wx3.sinaimg.cn/large/006vnxPsly1gx10ch2go5j31d20u0n34.jpg" class="d-block w-100" style="height: 400px">
+                                        
+                                          <div class="carousel-caption d-none d-md-block">
+                                             
+                                              <p>EISS-2021企业信息安全峰会之上海站</p>
+                                          </div>
+                                        </a>
+                                      </div>
+
+
+
+                                      <div class="carousel-item ">
+                                        <a href="/library/cid/404">
+                                          <img src="//wx3.sinaimg.cn/large/006vnxPsly1gw7yr5lw55j318x0u0k1n.jpg" class="d-block w-100" style="height: 400px">
+                                        
+                                          <div class="carousel-caption d-none d-md-block">
+                                             
+                                              <p>KCon 2021 纵横</p>
+                                          </div>
+                                        </a>
+                                      </div>
+
+
+                                      <div class="carousel-item">
+                                        <a href="/library/cid/406">
+                                          <img src="//wx3.sinaimg.cn/large/006vnxPsly1gw8o5j6vhlj316s0u0dm8.jpg" class="d-block w-100" style="height: 400px">
+                                        
+                                          <div class="carousel-caption d-none d-md-block">
+                                             
+                                              <p>2021看雪第五届安全开发者峰会</p>
+                                          </div>
+                                        </a>
+                                      </div>
+
+
+
+
+
+
+
+
+                                      
+
+
+
+                                        
+
+
+
+
+                                        
+
+
+
+                            
+
+
+                 
+
+
+
+                                        
+
+
+
+                                        
+                                        
+                                        
+                                    </div>
+                                    <a class="carousel-control-prev" href="#carouselExCap" role="button" data-slide="prev">
+                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                    <a class="carousel-control-next" href="#carouselExCap" role="button" data-slide="next">
+                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+
+
+                      </div><!-- .col -->
+                      <div class="col-md-6 col-lg-4">
+                            <div class="card card-bordered card-full is-center-mb">
+                                            <div class="card-inner">
+                                                <div class="card-title mb-4">
+                                                    <h6 class="title">热门标签</h6>
+                                                </div>
+                                                <div class="nk-cov-newswg">
+                                                    <div class="nk-cov-newswg-item">
+                                                        <div class="nk-cov-newswg-content">
+                                                         
+                                                          
+                                                            <a href="/library/tags/网络安全"><span class="badge badge-dim badge-secondary">网络安全 (299 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/数据安全"><span class="badge badge-dim badge-secondary">数据安全 (247 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/业务安全"><span class="badge badge-dim badge-secondary">业务安全 (187 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/企业安全"><span class="badge badge-dim badge-secondary">企业安全 (184 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/漏洞挖掘"><span class="badge badge-dim badge-secondary">漏洞挖掘 (182 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/信息安全"><span class="badge badge-dim badge-secondary">信息安全 (166 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/云安全"><span class="badge badge-dim badge-secondary">云安全 (161 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全建设"><span class="badge badge-dim badge-secondary">安全建设 (153 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/解决方案"><span class="badge badge-dim badge-secondary">解决方案 (153 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/威胁情报"><span class="badge badge-dim badge-secondary">威胁情报 (153 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/移动安全"><span class="badge badge-dim badge-secondary">移动安全 (148 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/web安全"><span class="badge badge-dim badge-secondary">web安全 (139 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全运营"><span class="badge badge-dim badge-secondary">安全运营 (125 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全研究"><span class="badge badge-dim badge-secondary">安全研究 (124 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全管理"><span class="badge badge-dim badge-secondary">安全管理 (116 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全实践"><span class="badge badge-dim badge-secondary">安全实践 (103 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/渗透测试"><span class="badge badge-dim badge-secondary">渗透测试 (100 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/大数据"><span class="badge badge-dim badge-secondary">大数据 (93 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全对抗"><span class="badge badge-dim badge-secondary">安全对抗 (91 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全测试"><span class="badge badge-dim badge-secondary">安全测试 (89 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全分析"><span class="badge badge-dim badge-secondary">安全分析 (87 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全开发"><span class="badge badge-dim badge-secondary">安全开发 (80 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/漏洞分析"><span class="badge badge-dim badge-secondary">漏洞分析 (72 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全体系"><span class="badge badge-dim badge-secondary">安全体系 (71 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/金融安全"><span class="badge badge-dim badge-secondary">金融安全 (68 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全威胁"><span class="badge badge-dim badge-secondary">安全威胁 (68 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全防御"><span class="badge badge-dim badge-secondary">安全防御 (66 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全架构"><span class="badge badge-dim badge-secondary">安全架构 (66 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/风控"><span class="badge badge-dim badge-secondary">风控 (64 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/应急响应"><span class="badge badge-dim badge-secondary">应急响应 (64 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/APT"><span class="badge badge-dim badge-secondary">APT (63 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全防护"><span class="badge badge-dim badge-secondary">安全防护 (63 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/xdef"><span class="badge badge-dim badge-secondary">xdef (63 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/安全人才"><span class="badge badge-dim badge-secondary">安全人才 (62 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/信息安全研究"><span class="badge badge-dim badge-secondary">信息安全研究 (61 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/数据分析"><span class="badge badge-dim badge-secondary">数据分析 (59 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/自动化"><span class="badge badge-dim badge-secondary">自动化 (58 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/区块链"><span class="badge badge-dim badge-secondary">区块链 (58 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/AI"><span class="badge badge-dim badge-secondary">AI (58 )</span></a>
+
+                                                          
+                                                            <a href="/library/tags/法律法规"><span class="badge badge-dim badge-secondary">法律法规 (57 )</span></a>
+
+                                                          
+                                                         
+                                                           
+                                                        </div>
+                                                      
+                                                    </div>
+                                          
+                                                </div>
+                                             
+                                            </div>
+                                        </div>
+
+
+                                      
+                      </div><!-- .col -->
+                  </div><!-- .row -->
+
+                  
+ 
+            
+          </div><!-- .nk-block -->
+
+
+
+
+      <!-- .nk-block --> 
+     </div> 
+
+     <div class="nk-content-body" style="margin-top: -10px"> 
+          <div class="nk-search-box">
+                <div class="form-group">
+                    <div class="form-control-wrap">
+
+                      <form action="/library/search">
+                        <input type="text" name="keyword" class="form-control form-control-lg border border-primary" placeholder="搜索内容范围 (标题、作者、标签、简介)" value="">
+                        <button class="form-icon form-icon-right">
+                            <em class="icon ni ni-search"></em>
+                        </button>
+                      </form>
+                    </div>
+                </div>
+            </div>
+     </div>
+
+
+
+     <div class="nk-content-body" style=""> 
+
+
+        <div class="card card-bordered sp-plan">
+                                            <div class="row no-gutters">
+                                                <div class="col-md-8">
+                                                    <div class="sp-plan-info card-inner">
+                                                        <div class="row gx-0 gy-3">
+                                                            <div class="col-xl-9 col-sm-8">
+                                                                <div class="sp-plan-name">
+                                                                    <h6 class="title">数据</h6>
+                                                                   
+                                                                </div>
+                                                            </div>
+                                                      
+                                                        </div>
+                                                    </div><!-- .sp-plan-info -->
+                                                    <div class="sp-plan-desc card-inner">
+                                                        
+                                                        <ul class="row gx-1">
+    <li class="col-6 col-lg-3">
+        <p><span class="text-soft">书架数</span> 413</p>
+    </li>
+    <li class="col-6 col-lg-3">
+        <p><span class="text-soft">议题数</span> 3703</p>
+    </li>
+    <li class="col-6 col-lg-3">
+        <p><span class="text-soft">附件数</span> 3878</p>
+    </li>
+
+    <li class="col-6 col-lg-3">
+        <p><span class="text-soft">成员数</span> 12959</p>
+    </li>
+    </ul>
+
+
+                                                    </div><!-- .sp-plan-desc -->
+                                                </div><!-- .col -->
+                                                <div class="col-md-4">
+                                                    <div class="sp-plan-action card-inner">
+                                                        <div class="sp-plan-btn">
+                                                            <a target="_blank" href="mailto:admin@vipread.com"  class="btn btn-primary"><span>联系我们</span></a>
+                                                        </div>
+                                                        <div class="sp-plan-note text-md-center">
+                                                            <p>欢迎您提供宝贵建议 </p>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- .col -->
+                                            </div><!-- .row -->
+                                        </div>
+
+
+
+     </div>
+
+
+    </div> 
+   </div> 
+  </div> 
+
+
+
+            <!-- content @e -->
+            <!-- footer @s -->
+            
+  <div class="nk-footer nk-footer-fluid bg-lighter">
+                <div class="container-xl wide-lg">
+                    <div class="nk-footer-wrap">
+                        <div class="nk-footer-copyright small"> 
+                            &copy; 2014-2022 <a href="//vipread.com">信息安全知识库</a>
+
+
+                            <a href="https://beian.miit.gov.cn/" target="_blank">吉ICP备15005112号-2</a>
+
+
+                        </div>
+
+
+                        <div class="nk-footer-links">
+                            <ul class="nav nav-sm">
+                                <li class="nav-item"><a class="nav-link" href="/donate"><mark><span class="text-danger"><b>打赏支持</b></span></mark></a></li>
+                                <li class="nav-item"><a class="nav-link" href="/friends">友情链接</a></li>
+                                <li class="nav-item"><a target="_blank" class="nav-link" href="/feed"><em class="ni ni-rss" style="margin-right: 2px; color:#FFA500"></em>  RSS</a></li>
+
+                                <li class="nav-item"><span class="nav-link" >QQ 2群: 825629062</span></li>
+
+
+                                <li class="nav-item"><span class="nav-link" > <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279433875'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279433875%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></span></li>
+
+
+
+                               
+
+
+                              
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+</div>
+
+            <!-- footer @e -->
+        </div>
+        <!-- wrap @e -->
+    </div>
+    <!-- app-root @e -->
+    <!-- JavaScript -->
+    
+
+    
+  <script src="/static/assets/js/bundle.js?ver=1.4.0"></script>
+<script src="/static/assets/js/scripts.js?ver=1.4.0"></script>
+<script src="/static/assets/js/charts/chart-invest.js?ver=1.4.0"></script>
+
+
+
+
+
+
+
+</body>
+
+</html>
